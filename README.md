@@ -15,45 +15,6 @@ Key Innovation: AI-Powered Localization
 
 The application integrates the Gemini 2.5 Flash API to demonstrate advanced technical depth. When a user views an article, they can use the "Ask the RAK Study AI" panel to instantly generate summaries, answer targeted questions about the content, or adjust the complexity of the material, ensuring the information is highly accessible and relevant to their studies.
 
-🛠️ Technology Stack (GitHub Focus)
-
-This project is built using a modern, collaborative stack ideal for open-source development and hackathon presentation:
-
-Technology
-
-Purpose
-
-Relevance to Judging
-
-React (Functional Components)
-
-Front-end UI and state management.
-
-Demonstrates modern development practices.
-
-Tailwind CSS
-
-Utility-first CSS framework for a responsive and clean design.
-
-Excellent User Experience (UX) and design.
-
-Gemini 2.5 Flash API
-
-Intelligent content processing (Q&A, Summarization, Contextualization).
-
-Scores high on Technical Depth and AI Integration.
-
-GitHub
-
-Version control, issue tracking, and collaborative code management.
-
-Essential for demonstrating collaboration.
-
-(Future): Firebase Firestore
-
-Real-time data persistence for collaborative content curation.
-
-Demonstrates scalability and database knowledge.
 
 🚀 Getting Started (Simulated Local Setup)
 
